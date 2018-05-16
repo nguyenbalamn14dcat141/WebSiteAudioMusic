@@ -1,4 +1,4 @@
-# AudioWatermarkDemo
+# AudioWatermarkMusicDemo
 
 Use LSB algorithm to insert secret message to audio file (*.WAV)
 
